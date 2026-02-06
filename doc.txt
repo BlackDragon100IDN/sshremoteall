@@ -1,0 +1,2 @@
+cd C:\ssh
+python scan_ssh_remote.py
